@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0804d49d-e588-4bf9-bd33-bc10ecdf5d37" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.firebaserc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sbt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firebase.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarnrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/asset-manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/precache-manifest.9ebfd83d982615c9fb42a79c065adb85.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/service-worker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/static/js/2.d9efcc27.chunk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/static/js/2.d9efcc27.chunk.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/static/js/2.d9efcc27.chunk.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/static/js/main.f49b2b83.chunk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/static/js/main.f49b2b83.chunk.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/static/js/runtime-main.1f1f19a3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/static/js/runtime-main.1f1f19a3.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/utils.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/EventList.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/MissionList.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/PlaceList.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/SelectedUser.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/UserList.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/data.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/ducks.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/serviceWorker.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/setupTests.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/main/kotlin/iclab/kaist/App.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/main/kotlin/iclab/kaist/Database.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/main/kotlin/iclab/kaist/common/Firestores.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/main/kotlin/iclab/kaist/common/Utils.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/main/kotlin/iclab/kaist/data/Events.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/main/kotlin/iclab/kaist/data/HigherOrders.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/main/kotlin/iclab/kaist/data/Missions.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/main/kotlin/iclab/kaist/data/OverallStats.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/main/kotlin/iclab/kaist/data/PlaceStats.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/main/kotlin/iclab/kaist/main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/main/resources/application.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/main/resources/templates/asset-manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/main/resources/templates/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/main/resources/templates/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/main/resources/templates/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/main/resources/templates/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/main/resources/templates/precache-manifest.9ebfd83d982615c9fb42a79c065adb85.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/main/resources/templates/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/main/resources/templates/service-worker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/main/resources/templates/static/js/2.d9efcc27.chunk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/main/resources/templates/static/js/2.d9efcc27.chunk.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/main/resources/templates/static/js/2.d9efcc27.chunk.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/main/resources/templates/static/js/main.f49b2b83.chunk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/main/resources/templates/static/js/main.f49b2b83.chunk.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/main/resources/templates/static/js/runtime-main.1f1f19a3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/main/resources/templates/static/js/runtime-main.1f1f19a3.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../temp/get.http" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LICENSE.md" beforeDir="false" afterPath="$PROJECT_DIR$/../LICENSE.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1bO1gLJtqaO6TnRyqtUSHHg0LHa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../functions" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="settings.typescriptcompiler" />
+    <property name="ts.external.directory.path" value="F:\Projects\Stochastic-StandUp-Admin\frontend\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Projects\Stochastic-StandUp-Admin\frontend\src" />
+      <recent name="F:\Projects\Stochastic-StandUp-Admin\frontend\src\common" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.build">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.build" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0804d49d-e588-4bf9-bd33-bc10ecdf5d37" name="Default Changelist" comment="" />
+      <created>1588488435405</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588488435405</updated>
+      <workItem from="1588488436820" duration="41425000" />
+      <workItem from="1588659762473" duration="13635000" />
+      <workItem from="1588731653137" duration="2706000" />
+      <workItem from="1588745380052" duration="529000" />
+      <workItem from="1588752154373" duration="1399000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1588577778626">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser/3000.0.1920.1040/0.0.1920.1040/1920.-867.1080.2520@0.0.1920.1040" timestamp="1588577778626" />
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588571653926">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/3000.0.1920.1040/0.0.1920.1040/1920.-867.1080.2520@0.0.1920.1040" timestamp="1588571653926" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1588550945016">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/3000.0.1920.1040/0.0.1920.1040/1920.-867.1080.2520@0.0.1920.1040" timestamp="1588550945016" />
+    <state width="1899" height="289" key="GridCell.Tab.0.bottom" timestamp="1588753554361">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="289" key="GridCell.Tab.0.bottom/3000.0.1920.1040/0.0.1920.1040/1920.-867.1080.2520@0.0.1920.1040" timestamp="1588753554361" />
+    <state width="1899" height="289" key="GridCell.Tab.0.center" timestamp="1588753554361">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="289" key="GridCell.Tab.0.center/3000.0.1920.1040/0.0.1920.1040/1920.-867.1080.2520@0.0.1920.1040" timestamp="1588753554361" />
+    <state width="1899" height="289" key="GridCell.Tab.0.left" timestamp="1588753554361">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="289" key="GridCell.Tab.0.left/3000.0.1920.1040/0.0.1920.1040/1920.-867.1080.2520@0.0.1920.1040" timestamp="1588753554361" />
+    <state width="1899" height="289" key="GridCell.Tab.0.right" timestamp="1588753554361">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="289" key="GridCell.Tab.0.right/3000.0.1920.1040/0.0.1920.1040/1920.-867.1080.2520@0.0.1920.1040" timestamp="1588753554361" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1588489266930">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/3000.0.1920.1040/0.0.1920.1040/1920.-867.1080.2520@0.0.1920.1040" timestamp="1588489266930" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1588575917188">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/3000.0.1920.1040/0.0.1920.1040/1920.-867.1080.2520@0.0.1920.1040" timestamp="1588575917188" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1588562873332">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/3000.0.1920.1040/0.0.1920.1040/1920.-867.1080.2520@0.0.1920.1040" timestamp="1588562873332" />
+  </component>
+</project>
